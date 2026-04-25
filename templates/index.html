@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Industrial IIoT IDS</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Industrial IIoT Intrusion Detection</h1>
+
+<form action="/predict" method="POST">
+
+<input type="number" name="packet_rate" placeholder="Packet Rate" required>
+<input type="number" name="failed_logins" placeholder="Failed Logins" required>
+<input type="number" name="traffic_load" placeholder="Traffic Load" required>
+
+<button type="submit">Detect</button>
+
+</form>
+
+</body>
+</html>
