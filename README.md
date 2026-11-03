@@ -5,6 +5,7 @@
 🚀 LIVE PROJECT DEMO
 
 🌐 Launch Industrial IoT Intrusion Detection System
+  https://industrial-iot-intrusion-detection.streamlit.app/
 
 </div>
 
