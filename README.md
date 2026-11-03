@@ -1,5 +1,13 @@
 # Ensemble Learning-Based Intrusion Detection for Industrial IoT
 
+<div align="center">
+
+🚀 LIVE PROJECT DEMO
+
+🌐 Launch Industrial IoT Intrusion Detection System
+
+</div>
+
 Streamlit app that detects cyber attacks in Industrial IoT network traffic using ensemble learning.
 
 ## What it does
