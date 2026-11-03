@@ -25,9 +25,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy on Streamlit Community Cloud
-1. Push this folder to a GitHub repo
-2. share.streamlit.io -> New app -> select repo, branch, main file `app.py`
 
 ## Use a real dataset
 Choose **Upload CSV** in the sidebar, pick the label column and drop ID/IP/timestamp columns.
